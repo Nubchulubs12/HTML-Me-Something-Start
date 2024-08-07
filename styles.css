@@ -1,1 +1,45 @@
 /* Write your CSS here! */
+#header {
+    font-weight: bolder;
+    font-size:250%;
+    padding: 1%;
+    margin: 1%;
+}
+
+#h1 {
+    margin: 1%;
+    padding: 2%;
+    font-size: 175%;
+    font-weight: bold;
+}
+#body {
+    text-align: center;
+    margin: 8px;
+    padding: 1px;
+    display: block;
+}
+
+p {
+    text-align: start;
+    margin: 2%;
+    padding: 1%;
+}
+.resized-image {
+    width: 250px;
+    height: 450px;
+    
+}
+html {
+    background-color: burlywood;
+}
+#mainHeading {
+    color: red;
+}
+
+#testP{
+font-family: 'Times New Roman', Times, serif;
+}
+
+.funParagraph {
+    color: green;
+}
